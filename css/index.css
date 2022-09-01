@@ -12,6 +12,11 @@ Licence: <a href="http://www.templateonweb.com/terms.php?v=content&contentid=152
   top: 0;
 }
 
+.skiptranslate *{
+  position: relative;
+  display: block;
+}
+
 
 
 .center_home{
